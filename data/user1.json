@@ -1,0 +1,8 @@
+[
+  {
+    "username": "Обычный пользователь",
+    "login": "user1",
+    "password": "pass",
+    "is_admin": false
+  }
+]
